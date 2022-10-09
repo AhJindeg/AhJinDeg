@@ -10,5 +10,6 @@
 - 💬 Ask me about Vue/javascript/typescript
 - 📫 email: `Ahjindeg@163.com`
 
-![snake](./github-contribution-grid-snake.svg)
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AhJindeg&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![snake](./github-contribution-grid-snake.svg)
