@@ -18,5 +18,4 @@
 ![streak](http://github-readme-streak-stats.herokuapp.com/?user=AhJindeg&theme=radical)
 ![trophy](https://github-profile-trophy.vercel.app/?username=AhJindeg&theme=radical)
 [![tree's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhJindeg&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhJindeg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AhJindeg00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AhJindeg&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
