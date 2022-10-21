@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning English
 - 🤔 I’m looking for help with a job
 - 💬 Ask me about Vue/javascript/typescript
-- 📫 email: `Ahjindeg@163.com`
+- 📫 email: `AhJindeg@163.com`
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AhJindeg&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
