@@ -10,4 +10,6 @@
 - 💬 Ask me about Vue/javascript/typescript
 - 📫 email: `AhJindeg@163.com`
 
+[![](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin?id=1042780737252231&limit=3)](https://juejin.cn/user/1042780737252231/posts)
+
 ![snake](./github-contribution-grid-snake.svg)
