@@ -1,4 +1,4 @@
-### 🔥 Hey! This is 阿烬°
+### 🔥 Hey! This is Arthur AJ. W
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=kangyana)
 ![](https://img.shields.io/github/stars/AhJindeg?color=fefb7b&logo=Undertale)
