@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning English.
 - 🤔 I’m looking for help with a job.
 - 💬 Ask me about Vue/weapp/javascript/typescript.
-- 👨‍💻 Blog: [AhJindeg's Blog（ https://AhJindeg.github.io ）](https://AhJindeg.github.io/)
+- 👨‍💻 Blog: [AhJindeg's Blog（https://AhJindeg.github.io）](https://AhJindeg.github.io/)
 - 📫 Email: `AhJindeg@163.com`.
 
 <!-- [![](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin?id=1042780737252231&limit=3)](https://juejin.cn/user/1042780737252231/posts) -->
